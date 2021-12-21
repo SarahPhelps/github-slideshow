@@ -2,7 +2,7 @@
 
 ---
 
-layout: slide
+Not enjoying this
 
 title: "Welcome to our second slide!"
 
